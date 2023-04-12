@@ -1,0 +1,57 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:rgb(0, 34, 126)
+}
+h2{
+    color: rgb(247, 0, 0);
+}
+.Música{
+    background-color:
+    
+    rgb(184, 181, 179);
+    color: rgb(0, 0, 0);
+}
+.ky{
+    text-align: center;
+}
+
+h3{
+    color: rgb(255, 3, 3);
+
+}
+.t-kay{
+    height: 350px;
+    width: 550px;
+}
+.t-p6{
+    height: 550px;
+    width: 600px;
+}
+body{
+    background-color: rgb(184, 181, 179);
+}
+.Esportes a{
+    color: rgb(233, 3, 3);
+}
+.Papa a{
+    color: rgb(241, 0, 0);
+}
+.Bolsonaro a{
+    color: rgb(241, 0, 0);
+}
+.Música a{
+    color: rgb(241, 0, 0);
+}
+.t-esporte{
+    height: 550px;
+    width: 600px;
+}
+.t-francisco{
+    height: 550px ;
+    width: 750px;
+
+}
+.t-bolsonaro{
+    height: 550px;
+    width: 750px;
+}
